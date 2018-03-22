@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ivodopiviz</title>
-    <link>https://ivodopiviz.github.io/</link>
-    <description>Recent content on ivodopiviz</description>
+    <title>Opensource on ivodopiviz</title>
+    <link>https://ivodopiviz.github.io/tags/opensource/</link>
+    <description>Recent content in Opensource on ivodopiviz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Mar 2018 20:18:44 +0000</lastBuildDate>
     
-	<atom:link href="https://ivodopiviz.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ivodopiviz.github.io/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://ivodopiviz.github.io/project/project-test/</guid>
       <description>I&amp;rsquo;ve been doing quite a bit of general bugfixing in Godot lately. I&amp;rsquo;ve worked with the engine in one way or another for quite a few years now and contributing to open source projects is always very rewarding.</description>
-    </item>
-    
-    <item>
-      <title>Minimal Test</title>
-      <link>https://ivodopiviz.github.io/post/minimal-test/</link>
-      <pubDate>Thu, 22 Mar 2018 20:17:53 +0000</pubDate>
-      
-      <guid>https://ivodopiviz.github.io/post/minimal-test/</guid>
-      <description>Hola que tal.</description>
     </item>
     
   </channel>
