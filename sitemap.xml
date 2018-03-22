@@ -30,6 +30,12 @@
   </url>
   
   <url>
+    <loc>https://ivodopiviz.github.io/tags/news/</loc>
+    <lastmod>2018-03-22T20:17:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ivodopiviz.github.io/tags/opensource/</loc>
     <lastmod>2018-03-22T20:18:44+00:00</lastmod>
     <priority>0</priority>
@@ -50,6 +56,12 @@
   <url>
     <loc>https://ivodopiviz.github.io/tags/</loc>
     <lastmod>2018-03-22T20:18:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivodopiviz.github.io/tags/website/</loc>
+    <lastmod>2018-03-22T20:17:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
