@@ -6,19 +6,10 @@
     <description>Recent content in Posts on ivodopiviz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Mar 2018 15:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 14:35:21 +0100</lastBuildDate>
     
 	<atom:link href="https://ivodopiviz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Another post</title>
-      <link>https://ivodopiviz.github.io/posts/another-post/</link>
-      <pubDate>Mon, 19 Mar 2018 15:41:38 +0000</pubDate>
-      
-      <guid>https://ivodopiviz.github.io/posts/another-post/</guid>
-      <description>This is another amazing post.</description>
-    </item>
     
     <item>
       <title>Hello World</title>
