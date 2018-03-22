@@ -3,18 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ivodopiviz.github.io/posts/hello-world/</loc>
-    <lastmod>2018-03-19T14:35:21+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ivodopiviz.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ivodopiviz.github.io/posts/</loc>
-    <lastmod>2018-03-19T14:35:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,7 +14,6 @@
   
   <url>
     <loc>https://ivodopiviz.github.io/</loc>
-    <lastmod>2018-03-19T14:35:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   

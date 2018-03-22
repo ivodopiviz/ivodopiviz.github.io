@@ -6,19 +6,9 @@
     <description>Recent content on ivodopiviz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Mar 2018 14:35:21 +0100</lastBuildDate>
     
 	<atom:link href="https://ivodopiviz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://ivodopiviz.github.io/posts/hello-world/</link>
-      <pubDate>Mon, 19 Mar 2018 14:35:21 +0100</pubDate>
-      
-      <guid>https://ivodopiviz.github.io/posts/hello-world/</guid>
-      <description>Welcome to incarnation #13546711 of my personal website. Small change to re-trigger building.</description>
-    </item>
     
   </channel>
 </rss>
