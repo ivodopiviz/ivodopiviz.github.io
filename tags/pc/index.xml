@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Iván Makes Games</title>
-    <link>https://ivodopiviz.github.io/portfolio/</link>
-    <description>Recent content in Portfolios on Iván Makes Games</description>
+    <title>Pc on Iván Makes Games</title>
+    <link>https://ivodopiviz.github.io/tags/pc/</link>
+    <description>Recent content in Pc on Iván Makes Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 May 2018 20:35:36 +0200</lastBuildDate>
     
-	<atom:link href="https://ivodopiviz.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ivodopiviz.github.io/tags/pc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>Sensar Description: This was a very interesting project for rehabilitation of patients with neuro-motor problems. It was a suite of minigames, all of them using the Kinect camera to detect gestures trained with machine learning techniques.
 The main challenge was creating a system that would give accurate detection but at the same time allow to be configured lenient enough to account for each patient capabilities.
 The system included user account suppor and full activity logging, intended to be shared with the medical staff.</description>
-    </item>
-    
-    <item>
-      <title>AR Viewer</title>
-      <link>https://ivodopiviz.github.io/portfolio/ar-viewer/</link>
-      <pubDate>Tue, 08 May 2018 15:48:31 +0200</pubDate>
-      
-      <guid>https://ivodopiviz.github.io/portfolio/ar-viewer/</guid>
-      <description>AR Viewer Description: This was an interesting augmented reality project that, unfortunately, was never released. The basic idea was that cable technicians usually have trouble identifying what is what when dealing with crowded equipment and this project was aimed to provide a clean and advanced solution.
-Several augmented reality &amp;ldquo;data layers&amp;rdquo; would give the technician information about the device itself, about each customer and real time data of the device performance and issues.</description>
     </item>
     
   </channel>

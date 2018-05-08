@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://ivodopiviz.github.io/portfolio/rehab/</loc>
+    <lastmod>2018-05-08T20:35:36+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ivodopiviz.github.io/portfolio/ar-viewer/</loc>
     <lastmod>2018-05-08T15:48:31+02:00</lastmod>
   </url>
@@ -75,6 +80,12 @@
   </url>
   
   <url>
+    <loc>https://ivodopiviz.github.io/tags/kinect/</loc>
+    <lastmod>2018-05-08T20:35:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ivodopiviz.github.io/tags/news/</loc>
     <lastmod>2018-03-22T20:17:53+00:00</lastmod>
     <priority>0</priority>
@@ -87,8 +98,14 @@
   </url>
   
   <url>
+    <loc>https://ivodopiviz.github.io/tags/pc/</loc>
+    <lastmod>2018-05-08T20:35:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ivodopiviz.github.io/portfolio/</loc>
-    <lastmod>2018-05-08T15:48:31+02:00</lastmod>
+    <lastmod>2018-05-08T20:35:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
