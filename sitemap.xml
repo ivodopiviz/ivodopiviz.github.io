@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ivodopiviz.github.io/project/godot/</loc>
+    <lastmod>2018-03-22T20:18:44+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ivodopiviz.github.io/project/octo/</loc>
     <lastmod>2018-03-22T22:50:12+00:00</lastmod>
   </url>
@@ -14,13 +19,19 @@
   
   <url>
     <loc>https://ivodopiviz.github.io/tags/2d/</loc>
-    <lastmod>2018-03-22T22:50:12+00:00</lastmod>
+    <lastmod>2018-03-22T20:18:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivodopiviz.github.io/tags/3d/</loc>
+    <lastmod>2018-03-22T20:18:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ivodopiviz.github.io/tags/c&#43;&#43;/</loc>
-    <lastmod>2018-03-22T22:50:12+00:00</lastmod>
+    <lastmod>2018-03-22T20:18:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -37,7 +48,7 @@
   
   <url>
     <loc>https://ivodopiviz.github.io/</loc>
-    <lastmod>2018-03-22T22:50:12+00:00</lastmod>
+    <lastmod>2018-03-22T20:18:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,7 +60,7 @@
   
   <url>
     <loc>https://ivodopiviz.github.io/tags/opensource/</loc>
-    <lastmod>2018-03-22T22:50:12+00:00</lastmod>
+    <lastmod>2018-03-22T20:18:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,13 +78,13 @@
   
   <url>
     <loc>https://ivodopiviz.github.io/project/</loc>
-    <lastmod>2018-03-22T22:50:12+00:00</lastmod>
+    <lastmod>2018-03-22T20:18:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ivodopiviz.github.io/tags/</loc>
-    <lastmod>2018-03-22T22:50:12+00:00</lastmod>
+    <lastmod>2018-03-22T20:18:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
