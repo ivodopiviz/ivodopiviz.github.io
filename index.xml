@@ -30,6 +30,16 @@
     </item>
     
     <item>
+      <title>AR Viewer</title>
+      <link>https://ivodopiviz.github.io/portfolio/ar-viewer/</link>
+      <pubDate>Tue, 08 May 2018 15:48:31 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/ar-viewer/</guid>
+      <description>AR Viewer Description: This was an interesting augmented reality project that, unfortunately, was never released. The basic idea was that cable technicians usually have trouble identifying what is what when dealing with crowded equipment and this project was aimed to provide a clean and advanced solution.
+Several augmented reality &amp;ldquo;data layers&amp;rdquo; would give the technician information about the device itself, about each customer and real time data of the device performance and issues.</description>
+    </item>
+    
+    <item>
       <title>Welcome to my website</title>
       <link>https://ivodopiviz.github.io/post/welcome/</link>
       <pubDate>Thu, 22 Mar 2018 20:17:53 +0000</pubDate>
