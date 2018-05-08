@@ -6,10 +6,19 @@
     <description>Recent content in Unity on Iván Makes Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 May 2018 15:48:31 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 May 2018 19:41:45 +0200</lastBuildDate>
     
 	<atom:link href="https://ivodopiviz.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unity Voxel Example</title>
+      <link>https://ivodopiviz.github.io/project/unity-voxel-example/</link>
+      <pubDate>Tue, 08 May 2018 19:41:45 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/project/unity-voxel-example/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AR Viewer</title>

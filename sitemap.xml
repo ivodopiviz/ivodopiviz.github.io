@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://ivodopiviz.github.io/project/unity-voxel-example/</loc>
+    <lastmod>2018-05-08T19:41:45+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ivodopiviz.github.io/portfolio/ar-viewer/</loc>
     <lastmod>2018-05-08T15:48:31+02:00</lastmod>
   </url>
@@ -113,7 +118,13 @@
   
   <url>
     <loc>https://ivodopiviz.github.io/tags/unity/</loc>
-    <lastmod>2018-05-08T15:48:31+02:00</lastmod>
+    <lastmod>2018-05-08T19:41:45+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivodopiviz.github.io/tags/voxel/</loc>
+    <lastmod>2018-05-08T19:41:45+02:00</lastmod>
     <priority>0</priority>
   </url>
   
