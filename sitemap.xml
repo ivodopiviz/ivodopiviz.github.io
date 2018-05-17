@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://ivodopiviz.github.io/portfolio/mazes-of-fate--ds-/</loc>
+    <lastmod>2018-05-02T20:15:48+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ivodopiviz.github.io/portfolio/mazes-of-fate--gba-/</loc>
     <lastmod>2018-05-01T20:12:14+02:00</lastmod>
   </url>
@@ -63,7 +68,7 @@
   
   <url>
     <loc>https://ivodopiviz.github.io/tags/c/</loc>
-    <lastmod>2018-05-01T20:12:14+02:00</lastmod>
+    <lastmod>2018-05-02T20:15:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,7 +85,13 @@
   
   <url>
     <loc>https://ivodopiviz.github.io/tags/console/</loc>
-    <lastmod>2018-05-01T20:12:14+02:00</lastmod>
+    <lastmod>2018-05-02T20:15:48+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ivodopiviz.github.io/tags/ds/</loc>
+    <lastmod>2018-05-02T20:15:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -110,7 +121,7 @@
   
   <url>
     <loc>https://ivodopiviz.github.io/tags/lua/</loc>
-    <lastmod>2018-05-01T20:12:14+02:00</lastmod>
+    <lastmod>2018-05-02T20:15:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
