@@ -6,10 +6,21 @@
     <description>Recent content in Ds on Iván Makes Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Apr 2018 20:15:48 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Apr 2018 20:15:48 +0200</lastBuildDate>
     
 	<atom:link href="https://ivodopiviz.github.io/tags/ds/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Return to Mysterious Island</title>
+      <link>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</link>
+      <pubDate>Tue, 03 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</guid>
+      <description>Description: Port of the PC graphical adventure to Nintendo DS, unfortunately never released because of the publisher&amp;rsquo;s lack of funds. I worked mostly on the small custom engine that was made compatible with the original game&amp;rsquo;s Lua scripts.
+Technologies: C++
+Lua</description>
+    </item>
     
     <item>
       <title>Mazes of Fate (DS)</title>

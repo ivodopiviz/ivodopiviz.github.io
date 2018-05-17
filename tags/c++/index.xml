@@ -49,5 +49,16 @@ It was an extremely difficult project that didn&amp;rsquo;t quite work out, but 
 This project would then move onto be developed by Minor Studios itself, getting ported to Unity and expanded significantly, but I wasn&amp;rsquo;t involved anymore by that stage.</description>
     </item>
     
+    <item>
+      <title>Return to Mysterious Island</title>
+      <link>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</link>
+      <pubDate>Tue, 03 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/return-to-mysterious-island/</guid>
+      <description>Description: Port of the PC graphical adventure to Nintendo DS, unfortunately never released because of the publisher&amp;rsquo;s lack of funds. I worked mostly on the small custom engine that was made compatible with the original game&amp;rsquo;s Lua scripts.
+Technologies: C++
+Lua</description>
+    </item>
+    
   </channel>
 </rss>
