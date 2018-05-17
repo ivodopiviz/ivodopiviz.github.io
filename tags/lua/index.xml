@@ -6,10 +6,20 @@
     <description>Recent content in Lua on Iván Makes Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Apr 2018 20:15:48 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 05 Apr 2018 20:16:26 +0200</lastBuildDate>
     
 	<atom:link href="https://ivodopiviz.github.io/tags/lua/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Atmosphir</title>
+      <link>https://ivodopiviz.github.io/portfolio/atmosphir/</link>
+      <pubDate>Thu, 05 Apr 2018 20:16:26 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/atmosphir/</guid>
+      <description>Atmosphir Description: A very interesting project mix of platformer and level editor, made for the now defunct Minor Studios. The game was made with a very early version of what would eventually become Godot Engine and used Lua for scripting. Players could share their creations and challenge each map to set the fastest times.
+This project would then move onto be developed by Minor Studios itself, getting ported to Unity and expanded significantly, but I wasn&amp;rsquo;t involved anymore by that stage.</description>
+    </item>
     
     <item>
       <title>Mazes of Fate (DS)</title>
