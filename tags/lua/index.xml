@@ -6,7 +6,7 @@
     <description>Recent content in Lua on Iván Makes Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 May 2018 20:15:48 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 02 Apr 2018 20:15:48 +0200</lastBuildDate>
     
 	<atom:link href="https://ivodopiviz.github.io/tags/lua/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Mazes of Fate (DS)</title>
       <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate--ds-/</link>
-      <pubDate>Wed, 02 May 2018 20:15:48 +0200</pubDate>
+      <pubDate>Mon, 02 Apr 2018 20:15:48 +0200</pubDate>
       
       <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate--ds-/</guid>
       <description>Description: The same first person RPG released on GBA, but ported to Nintendo DS, with the big change of being now in full 3D. This was my first serious work as a programmer. It was a difficult first project because the GBA and the DS were pretty different and the original GBA version was written with a homebrew SDK.
