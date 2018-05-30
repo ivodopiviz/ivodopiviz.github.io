@@ -60,6 +60,20 @@ Several augmented reality &amp;ldquo;data layers&amp;rdquo; would give the techn
     </item>
     
     <item>
+      <title>Silence</title>
+      <link>https://ivodopiviz.github.io/portfolio/silence/</link>
+      <pubDate>Mon, 07 May 2018 18:53:57 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/silence/</guid>
+      <description>Description: Small experimental sound-based game. The basic idea is to escape an alien ship using sounds as a guide. It was successfully greenlit but not yet released.
+The most interesting part is the semi-procedural level generation system that takes partial Tiled maps and puts them together based on the desired difficulty of the level.
+It&amp;rsquo;ll be eventually released for Windows, Mac and Linux.
+Technology: Haxe
+OpenFL
+HaxeFlixel</description>
+    </item>
+    
+    <item>
       <title>AAA: Heroes del Ring</title>
       <link>https://ivodopiviz.github.io/portfolio/aaa--heroes-del-ring/</link>
       <pubDate>Sun, 15 Apr 2018 20:11:19 +0200</pubDate>
