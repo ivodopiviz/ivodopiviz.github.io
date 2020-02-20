@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unity on Iván Makes Games</title>
+    <title>unity on Iván Makes Games</title>
     <link>https://ivodopiviz.github.io/tags/unity/</link>
-    <description>Recent content in Unity on Iván Makes Games</description>
+    <description>Recent content in unity on Iván Makes Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 May 2018 19:41:45 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2020 20:15:48 +0200</lastBuildDate>
     
 	<atom:link href="https://ivodopiviz.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,19 @@
       
       <guid>https://ivodopiviz.github.io/project/unity-voxel-example/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Waiting for Horus</title>
+      <link>https://ivodopiviz.github.io/portfolio/waiting-for-horus/</link>
+      <pubDate>Fri, 10 Jan 2020 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/waiting-for-horus/</guid>
+      <description>Description: I&amp;rsquo;m currently working on updating this game to more modern technologies. Originally made with Unity 4.5 and RPC networking, and I&amp;rsquo;m currently migrating it to modern versions and reworking the netcode to use Steamworks P2P and server systems.
+There&amp;rsquo;s still a lot of work to be done to adapt it to newer versions of Unity and to move it away of deprecated subsystems.
+Technology: C#
+Unity
+Steamworks</description>
     </item>
     
     <item>
