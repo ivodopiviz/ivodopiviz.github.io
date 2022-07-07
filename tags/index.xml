@@ -6,17 +6,67 @@
     <description>Recent content in Tags on Iván Makes Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2020 20:15:48 +0200</lastBuildDate>
-    
-	<atom:link href="https://ivodopiviz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 09 Mar 2020 20:15:48 +0200</lastBuildDate><atom:link href="https://ivodopiviz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>as3</title>
+      <link>https://ivodopiviz.github.io/tags/as3/</link>
+      <pubDate>Mon, 09 Mar 2020 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/tags/as3/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>c</title>
-      <link>https://ivodopiviz.github.io/tags/c/</link>
-      <pubDate>Fri, 10 Jan 2020 20:15:48 +0200</pubDate>
+      <title>gameface</title>
+      <link>https://ivodopiviz.github.io/tags/gameface/</link>
+      <pubDate>Mon, 09 Mar 2020 20:15:48 +0200</pubDate>
       
-      <guid>https://ivodopiviz.github.io/tags/c/</guid>
+      <guid>https://ivodopiviz.github.io/tags/gameface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PC</title>
+      <link>https://ivodopiviz.github.io/tags/pc/</link>
+      <pubDate>Mon, 09 Mar 2020 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/tags/pc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://ivodopiviz.github.io/tags/python/</link>
+      <pubDate>Mon, 09 Mar 2020 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>https://ivodopiviz.github.io/tags/react/</link>
+      <pubDate>Mon, 09 Mar 2020 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scaleform</title>
+      <link>https://ivodopiviz.github.io/tags/scaleform/</link>
+      <pubDate>Mon, 09 Mar 2020 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/tags/scaleform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TypeScript</title>
+      <link>https://ivodopiviz.github.io/tags/typescript/</link>
+      <pubDate>Mon, 09 Mar 2020 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/tags/typescript/</guid>
       <description></description>
     </item>
     
@@ -26,15 +76,6 @@
       <pubDate>Fri, 10 Jan 2020 20:15:48 +0200</pubDate>
       
       <guid>https://ivodopiviz.github.io/tags/c#/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PC</title>
-      <link>https://ivodopiviz.github.io/tags/pc/</link>
-      <pubDate>Fri, 10 Jan 2020 20:15:48 +0200</pubDate>
-      
-      <guid>https://ivodopiviz.github.io/tags/pc/</guid>
       <description></description>
     </item>
     
@@ -156,15 +197,6 @@
     </item>
     
     <item>
-      <title>as3</title>
-      <link>https://ivodopiviz.github.io/tags/as3/</link>
-      <pubDate>Sat, 05 May 2018 19:09:32 +0200</pubDate>
-      
-      <guid>https://ivodopiviz.github.io/tags/as3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>flash</title>
       <link>https://ivodopiviz.github.io/tags/flash/</link>
       <pubDate>Sat, 05 May 2018 19:09:32 +0200</pubDate>
@@ -215,6 +247,15 @@
       <pubDate>Tue, 03 Apr 2018 20:15:48 +0200</pubDate>
       
       <guid>https://ivodopiviz.github.io/tags/ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c</title>
+      <link>https://ivodopiviz.github.io/tags/c/</link>
+      <pubDate>Mon, 02 Apr 2018 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/tags/c/</guid>
       <description></description>
     </item>
     

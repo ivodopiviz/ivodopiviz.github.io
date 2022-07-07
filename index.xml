@@ -6,11 +6,7 @@
     <description>Recent content on Iván Makes Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2020 20:15:48 +0200</lastBuildDate>
-    
-	<atom:link href="https://ivodopiviz.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 09 Mar 2020 20:15:48 +0200</lastBuildDate><atom:link href="https://ivodopiviz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Godot</title>
       <link>https://ivodopiviz.github.io/project/godot/</link>
@@ -36,6 +32,20 @@
       
       <guid>https://ivodopiviz.github.io/project/unity-voxel-example/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>World of Tanks</title>
+      <link>https://ivodopiviz.github.io/portfolio/world-of-tanks/</link>
+      <pubDate>Mon, 09 Mar 2020 20:15:48 +0200</pubDate>
+      
+      <guid>https://ivodopiviz.github.io/portfolio/world-of-tanks/</guid>
+      <description>Description: This is the description.
+Technology: TypeScript
+React
+Gameface
+Scaleform
+Python</description>
     </item>
     
     <item>
@@ -89,10 +99,10 @@ Steamworks</description>
     
     <item>
       <title>Ben 10: Code Red</title>
-      <link>https://ivodopiviz.github.io/portfolio/ben-10-code-red/</link>
+      <link>https://ivodopiviz.github.io/portfolio/ben-10--code-red/</link>
       <pubDate>Sun, 06 May 2018 19:17:57 +0200</pubDate>
       
-      <guid>https://ivodopiviz.github.io/portfolio/ben-10-code-red/</guid>
+      <guid>https://ivodopiviz.github.io/portfolio/ben-10--code-red/</guid>
       <description>Description: Pretty standard web tower defense game developed for Cartoon Network latin america. Like most of CN&amp;rsquo;s web games, we had fairly strict size and performance limitations to hit. You can still play it online.
 Technologies: Haxe
 HaxeFlixel</description>
@@ -100,20 +110,20 @@ HaxeFlixel</description>
     
     <item>
       <title>Adventure Time: Romance on Ice</title>
-      <link>https://ivodopiviz.github.io/portfolio/adventure-time-romance-on-ice/</link>
+      <link>https://ivodopiviz.github.io/portfolio/adventure-time--romance-on-ice/</link>
       <pubDate>Sat, 05 May 2018 19:09:32 +0200</pubDate>
       
-      <guid>https://ivodopiviz.github.io/portfolio/adventure-time-romance-on-ice/</guid>
+      <guid>https://ivodopiviz.github.io/portfolio/adventure-time--romance-on-ice/</guid>
       <description>Description: Heavily inspired by Solipskier, this game was made for the latin american branch of Cartoon Network, later released all around the world. You can still play it if you want.
 Even though it was already being phased out, the game had to be coded in Flash and compatible with older versions of the Flash Player. There were also pretty strict performance and size limitations that had to be taken into account.</description>
     </item>
     
     <item>
       <title>AAA: Heroes del Ring</title>
-      <link>https://ivodopiviz.github.io/portfolio/aaa-heroes-del-ring/</link>
+      <link>https://ivodopiviz.github.io/portfolio/aaa--heroes-del-ring/</link>
       <pubDate>Sun, 15 Apr 2018 20:11:19 +0200</pubDate>
       
-      <guid>https://ivodopiviz.github.io/portfolio/aaa-heroes-del-ring/</guid>
+      <guid>https://ivodopiviz.github.io/portfolio/aaa--heroes-del-ring/</guid>
       <description>AAA: Heroes del Ring Description: The PSP adaptation of a game released for Xbox 360, PS3 and Wii. I wasn&amp;rsquo;t directly involved in the development of the game itself but on the actual port of the Torque 3D engine to the PSP platform.
 It was an extremely difficult project that didn&amp;rsquo;t quite work out, but it&amp;rsquo;s to this day one of the biggest learning experiences of my professional career.
 Technologies: Torque 3D</description>
@@ -152,10 +162,10 @@ Lua</description>
     
     <item>
       <title>Mazes of Fate (DS)</title>
-      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate-ds-/</link>
+      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate--ds-/</link>
       <pubDate>Mon, 02 Apr 2018 20:15:48 +0200</pubDate>
       
-      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate-ds-/</guid>
+      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate--ds-/</guid>
       <description>Description: The same first person RPG released on GBA, but ported to Nintendo DS, with the big change of being now in full 3D. This was my first serious work as a programmer. It was a difficult first project because the GBA and the DS were pretty different and the original GBA version was written with a homebrew SDK.
 Technologies: C
 Lua</description>
@@ -163,10 +173,10 @@ Lua</description>
     
     <item>
       <title>Mazes of Fate (GBA)</title>
-      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate-gba-/</link>
+      <link>https://ivodopiviz.github.io/portfolio/mazes-of-fate--gba-/</link>
       <pubDate>Sun, 01 Apr 2018 20:12:14 +0200</pubDate>
       
-      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate-gba-/</guid>
+      <guid>https://ivodopiviz.github.io/portfolio/mazes-of-fate--gba-/</guid>
       <description>Mazes of Fate Description: My first project in the videogame industry. An old school first person RPG for the Nintendo Gameboy Advance. I believe it was one of the first latin american games released on a Nintendo console. I started off as a QA tester and ended up doing plenty of production work and some light scripting.
 Technologies: C
 Lua</description>
